@@ -1,31 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Exorma — 1 PB Free Cloud</title>
-  <meta name="theme-color" content="#0b5fff" />
-  <link rel="preconnect" href="https://www.gstatic.com" crossorigin>
-  <link rel="preconnect" href="https://www.googleapis.com" crossorigin>
-  <style>
-    :root{
-      --bg:#0b1020;
-      --card:#121831;
-      --ink:#e8ecf8;
-      --ink-dim:#b9c2df;
-      --accent:#0b5fff;
-      --accent-2:#6aa3ff;
-      --ok:#14b87a;
-      --warn:#f7b731;
-      --err:#ff4d4d;
-      --border:#243055;
-      --muted:#0a0f22;
-      --code:#0a0e1c;
-      --shadow:0 10px 30px rgba(0,0,0,.35);
-      --radius:14px;
-    }
-    *{box-sizing:border-box}
-    html,body{height:100%}
     body{
       margin:0;font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial;
       color:var(--ink);background:linear-gradient(180deg,#060915 0%,#0b1020 100%) fixed;
